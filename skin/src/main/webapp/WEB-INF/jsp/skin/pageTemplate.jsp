@@ -47,20 +47,6 @@
 			</div>
 			<div id="ft">
 				<div class="regionInner">
-					<div class="yui-gc">
-						<div id="aboutRecipe" class="yui-u first">
-							<h2 style="margin-top:0">About recipe <c:out value="${initParam.recipe}" /></h2>
-							<div><c:out value="${initParam.aboutThisRecipe}" escapeXml="false" /></div>
-						</div>
-						<div id="bookLinks" class="yui-u">
-							<div><a href="http://www.manning.com/wheeler/"><img id="bookImg" src="${sipCoverImgUrl}" alt="Spring in Practice" /></a></div>
-							<div>
-								<a href="http://www.manning.com/wheeler/" title="Discuss the book with the authors and other readers">Spring in Practice @ Manning</a><br />
-								<a href="http://springinpractice.com/" title="The book's blog, with elaborations, corrections and more">Spring in Practice Blog</a><br />
-								<a href="https://github.com/springinpractice" title="Source code">Source Code</a><br />
-							</div>
-						</div>
-					</div>
 					<div id="legal">
 						Copyright &copy; 2013 Manning Publications Co.
 					</div>
