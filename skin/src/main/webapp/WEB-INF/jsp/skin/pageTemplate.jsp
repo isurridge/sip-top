@@ -47,7 +47,7 @@
 			</div>
 			<div id="ft">
 				<div class="regionInner">
-					<div class="yui-gc">
+				<!--<div class="yui-gc">
 						<div id="aboutRecipe" class="yui-u first">
 							<h2 style="margin-top:0">About recipe <c:out value="${initParam.recipe}" /></h2>
 							<div><c:out value="${initParam.aboutThisRecipe}" escapeXml="false" /></div>
@@ -60,7 +60,7 @@
 								<a href="https://github.com/springinpractice" title="Source code">Source Code</a><br />
 							</div>
 						</div>
-					</div>
+					</div>-->
 					<div id="legal">
 						Copyright &copy; 2013 Manning Publications Co.
 					</div>
