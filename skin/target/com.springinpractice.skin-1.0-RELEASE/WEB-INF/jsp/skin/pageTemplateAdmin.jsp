@@ -33,7 +33,7 @@
 
 </head>
 <body>
-    <div style="display:none;">
+    <div style="display:block;">
 
         <!-- Start page content -->
         <div id="start-div">
