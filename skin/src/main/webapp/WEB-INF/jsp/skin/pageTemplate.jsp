@@ -47,6 +47,7 @@
 			</div>
 			<div id="ft">
 				<div class="regionInner">
+<<<<<<< HEAD
 				<!--<div class="yui-gc">
 						<div id="aboutRecipe" class="yui-u first">
 							<h2 style="margin-top:0">About recipe <c:out value="${initParam.recipe}" /></h2>
@@ -61,6 +62,8 @@
 							</div>
 						</div>
 					</div>-->
+=======
+>>>>>>> d8c2e3b2a21ad7a906438f6b309bdf5c65b2c137
 					<div id="legal">
 						Copyright &copy; 2013 Manning Publications Co.
 					</div>
