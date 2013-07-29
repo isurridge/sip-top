@@ -22,16 +22,6 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <decorator:head />
-<script type="text/javascript">
-	
-
-
-
-
-
-
-	
-</script>
 </head>
 <body>
 	<!-- use class="x-hide-display" to prevent a brief flicker of the content -->
